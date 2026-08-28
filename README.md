@@ -79,7 +79,7 @@ Before running the application, make sure you have:
 Clone the GitHub repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/domagoj900/AI-ChatBox.git
 ```
 
 Navigate to the project folder.
